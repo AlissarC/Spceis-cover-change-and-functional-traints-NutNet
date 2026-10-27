@@ -1,0 +1,176 @@
+site_name,site_code,longitude,latitude,continent,country,habitat,first_year,final_year,active,number_experiment_years,experiment_type,pre_annual,tmp_annual,pet_annual,tmp_GS,aridity
+Abiskojaure,abisko.se,18.740062,68.319867,Europe,SE,tundra grassland,2016,2016,0,1,Observational,538.3524285,-3.448319946,327.8459732,6.068978603,0.7773
+American Camp,amcamp.us,-123.0143109,48.46504064,North America,US,mesic grassland,2007,2007,0,1,Observational,1150.379858,9.432392629,649.6846881,9.499822982,0.658
+Antisana,anti.ec,-78.162,-0.467083333,South America,EC,alpine grassland,2013,2013,0,1,Observational,1048.103244,11.39966418,908.8717938,11.39966418,0.9669
+Archbold Biological Station,arch.us,-81.18333333,27.15,North America,US,mixedgrass prairie,2015,NULL,1,7,Experimental (Full Factorial),1376.413733,22.73676112,1381.428252,22.73676112,0.6727
+Audkuluheidi Heath,ahth.is,-19.67206,65.13335,Europe,IS,heathland,2016,NULL,1,6,Experimental (Full Factorial),733.208883,0.814784963,349.2806502,5.336173291,1.1417
+Audkuluheidi Melur,amlr.is,-19.67206,65.13335,Europe,IS,desert grassland,2016,NULL,1,6,Experimental (Full Factorial),733.208883,0.814784963,349.2806502,5.336173291,1.1417
+Azi,azi.cn,101.87,33.67,Asia,CN,alpine grassland,2007,2012,0,6,Experimental (Full Factorial),697.0024303,-0.64495969,699.1645284,5.547622986,0.7176
+Azi Two,azitwo.cn,101.53,33.58,Asia,CN,alpine grassland,2018,NULL,1,4,Experimental (Other modification),697.0024303,-0.64495969,699.1645284,5.547622986,0.793
+Bad Lauchstaedt,badlau.de,11.877969,51.392138,Europe,DE,old field,2015,NULL,1,7,Experimental (Nutrients Only),539.724202,8.772043172,668.4266249,10.12629723,0.6049
+Barta Brothers,barta.us,-99.6518,42.244586,North America,US,mixedgrass prairie,2007,2011,0,5,Experimental (Full Factorial),587.9040435,8.51236573,1138.342761,13.65787624,0.3919
+Bayanbulak,bynb.cn,82.7088,42.8847,Asia,CN,alpine grassland,2018,NULL,1,4,Experimental (Full Factorial),370.6032326,-6.103158698,674.0790435,5.208145254,0.6437
+Bayreuth,bayr.de,11.58333333,49.91666667,Europe,DE,mesic grassland,2015,NULL,1,7,Experimental (Full Factorial),654.7072693,7.724395293,641.4072686,9.919609568,0.9061
+Bayreuth DRAGNet,bayr_drag.de,11.5838,49.922,Europe,DE,mesic grassland,2020,NULL,1,2,DRAGNet,654.7072693,7.724395293,641.4072686,9.919609568,0.8921
+Benedictine Bottoms,bnbt.us,-95.086276,39.597007,North America,US,tallgrass prairie,2017,NULL,1,5,Experimental (Full Factorial),896.1790468,12.1625002,1126.527438,15.25002388,0.6576
+Bogong,bogong.au,147.254,-36.874,Australia,AU,alpine grassland,2009,NULL,1,13,Experimental (Full Factorial),1266.729054,10.89737923,969.1266299,10.89737923,1.5877
+Boulder South Campus,bldr.us,-105.233544,39.972022,North America,US,shortgrass prairie,2008,NULL,1,14,Experimental (Full Factorial),447.2056521,6.611962481,1171.578245,10.44148455,0.2813
+Bunchgrass (Andrews LTER),bnch.us,-121.9680169,44.27668543,North America,US,montane grassland,2007,NULL,1,15,Experimental (Full Factorial),1187.375019,5.520161384,859.2540456,7.525705744,1.3455
+Bunya Mountains,bunya.au,151.606667,-26.892138,Australia,AU,grassland,2013,2013,0,1,Observational,774.9983992,17.6529573,1566.05809,17.6529573,0.5045
+Burrawan,burrawan.au,151.139517,-27.734896,Australia,AU,semiarid grassland,2008,NULL,1,14,Experimental (Full Factorial),660.8346895,18.68346805,1645.566962,18.68346805,0.3434
+Buttercup (Andrews LTER),bttr.us,-121.9566829,44.27951804,North America,US,montane grassland,2007,2007,0,1,Observational,1187.375019,5.520161384,859.2540456,7.525705744,1.3591
+CEREEP - Ecotron IDF,cereep.fr,2.66,48.28,Europe,FR,old field,2012,NULL,1,10,Experimental (Full Factorial),618.1871073,11.36196258,757.2282373,11.51647015,0.6652
+Camas Meadows Natural Area Preserve,cammead.us,-120.583828,47.4725,North America,US,NULL,2021,2021,0,1,Observational,895.7467902,5.430242038,806.0943686,9.553176699,0.556
+Cedar Creek LTER,cdcr.us,-93.2115,45.425,North America,US,tallgrass prairie,2007,NULL,1,15,Experimental (Full Factorial),718.0508197,6.521303888,921.7242103,13.97483225,0.7085
+Cedar Creek NutNEd,cedr.us,-93.2115,45.425,North America,US,tallgrass prairie,2007,NULL,1,15,Experimental (Full Factorial),718.0508197,6.521303888,921.7242103,13.97483225,0.7085
+Cedar Point Biological Station,cdpt.us,-101.63,41.2,North America,US,shortgrass prairie,2007,NULL,1,15,Experimental (Full Factorial),471.2701689,9.724932941,1234.323408,13.419364,0.2757
+Chichaqua Bottoms,cbgb.us,-93.38538333,41.78506667,North America,US,tallgrass prairie,2009,NULL,1,13,Experimental (Full Factorial),852.0395307,9.512701771,1021.863728,14.5848004,0.7241
+Churning Rapids,chur_dn.us,-88.614,47.178,North America,US,shortgrass prairie,221,NULL,1,3,Experimental (Full Factorial),839.9403376,4.825940941,712.70001,11.93211106,0.862
+Columbia Hills Natural Area Preserve,colhill.us,-121.068688,45.706047,North America,US,NULL,2021,2021,0,1,Observational,808.8016271,8.957258233,961.3250164,9.933792139,0.4188
+Companhia das Lezirias,comp.pt,-8.791406,38.82928,Europe,PT,annual grassland,2012,NULL,1,10,Experimental (Full Factorial),674.0395287,17.13104867,1117.11373,17.13104867,0.4677
+Cowichan,cowi.ca,-123.6301,48.8088,North America,CA,old field,2007,NULL,1,15,Experimental (Full Factorial),1740.695192,8.554435643,661.5346886,8.846923429,1.2092
+Cuyahoga Valley National Park,cuya.us,-81.556283,41.230049,North America,US,NULL,0,NULL,1,2022,Experimental (NPK x Fence Only),963.6637258,9.656855005,937.8338853,13.03591502,0.8477
+Derrimut,derr.au,144.7913889,-37.80694444,Australia,AU,semiarid grassland,2007,2007,0,1,Observational,566.7613001,13.99885777,1231.461312,13.99885777,0.3639
+Doane College Spring Creek Prairie ,doane.us,-96.8541,40.6954,North America,US,tallgrass prairie,2012,NULL,1,10,Experimental (Nutrients Only),718.3427533,10.89973137,1130.44034,14.90601097,0.5112
+Drakensberg,drake.za,29.267586,-28.96104204,Africa,ZA,montane grassland,2018,NULL,1,4,Experimental (Full Factorial),695.3298495,15.62983902,1243.358894,15.62983902,0.6993
+Duke Forest,unc.us,-79.020423,36.00828,North America,US,old field,2007,2011,0,5,Experimental (Full Factorial),1145.047602,14.63716422,1130.090341,14.74712268,0.8244
+Elkhorn,elkh.us,-122.05025,36.984861,North America,US,mesic grassland,2007,2007,0,1,Observational,772.151625,13.74845454,1115.495988,13.74845454,0.5323
+Elliott Chaparral,elliot.us,-117.052243,32.875,North America,US,annual grassland,2008,NULL,1,14,Experimental (Full Factorial),274.5959723,16.96995999,1173.954858,16.96995999,0.184
+Elva,elva.ee,26.35386,58.2582861,Europe,EE,semiarid grassland,2012,2012,0,1,Observational,636.9024298,5.220228587,552.712106,10.14450924,0.8691
+Ethabuka (Main Camp),ethamc.au,138.4742833,-23.7563333,Australia,AU,desert grassland,2013,NULL,1,9,Experimental (Full Factorial),207.443552,23.72674768,2344.925044,23.72674768,0.0644
+Ethabuka (South Site),ethass.au,138.39897,-23.63861,Australia,AU,desert grassland,2013,NULL,1,9,Experimental (Full Factorial),207.443552,23.72674768,2344.925044,23.72674768,0.0681
+FREE - Freiburg,free.de,7.82738,48.01985,Europe,DE,old field,2016,NULL,1,6,Experimental (Full Factorial),745.6185621,10.14045717,705.6895286,10.8285775,0.9148
+Finley NWR,fnly.us,-123.28,44.4097,North America,US,mesic grassland,2007,2007,0,1,Observational,1243.837925,11.27513462,850.943563,11.31659967,1.0721
+Fortín Chacabuco,bari.ar,-71.15323,-41.00644,South America,AR,grassland steppe,2015,NULL,1,7,Experimental (Full Factorial),918.4992093,6.879570007,967.3387271,7.05216043,0.5684
+Fruebuel,frue.ch,8.541821,47.113187,Europe,CH,pasture,2008,2016,1,9,Experimental (Full Factorial),1174.839538,8.245699073,633.8250102,9.609502861,1.769
+GCE LTER - Brackish,gce_brackish.us,-81.334667,31.351333,North America,US,NULL,2019,2019,0,1,Observational,1281.174216,19.92426107,1206.357279,19.92426107,0.81
+GCE LTER - Fresh,gce_fresh.us,-81.478667,31.335167,North America,US,NULL,2019,2019,0,1,Observational,1281.174216,19.92426107,1206.357279,19.92426107,0.8046
+GCE LTER - Salt,gce_salt.us,-81.229667,31.519,North America,US,NULL,2019,2019,0,1,Observational,1243.950021,19.67197613,1208.303248,19.67197613,0.8133
+GCN-Bange,gcnban.cn,90.2333,31.38333,Asia,CN,NULL,2017,NULL,1,5,Experimental (Full Factorial),318.7491982,-2.019758093,694.1693695,5.745309238,0.3551
+GCN-Dangxiong,gcndan.cn,91.06677,30.49621,Asia,CN,NULL,2017,NULL,1,5,Experimental (Full Factorial),358.6483936,-0.915860231,746.4088833,6.035614539,0.3076
+GCN-Haibei,gcnhai.cn,101.3128,37.6128,Asia,CN,NULL,2017,NULL,1,5,Experimental (Full Factorial),429.0564585,-2.65584683,694.6233993,5.945518544,0.4422
+GCN-Hongyuan,gcnhon.cn,102.58,32.83,Asia,CN,NULL,2017,NULL,1,5,Experimental (Full Factorial),700.6459816,0.921169373,701.7096911,5.913594578,0.6901
+GCN-Hulunber,gcnhul.cn,119.95158,49.333,Asia,CN,NULL,2017,NULL,1,5,Experimental (Full Factorial),397.4548455,-1.565053773,686.2798495,11.85984278,0.3687
+GCN-Naqu,gcnnaq.cn,92.0097,31.6437,Asia,CN,NULL,2017,NULL,1,5,Experimental (Full Factorial),451.3879126,-2.701411338,693.9193672,5.444569976,0.3833
+GCN-Suihua,gcnsui.cn,125.9875,46.53377,Asia,CN,NULL,2017,NULL,1,5,Experimental (Full Factorial),462.5193624,3.146303809,823.591143,14.66837583,0.43
+GCN-Urat,gcnura.cn,106.96667,41.41667,Asia,CN,NULL,2017,NULL,1,5,Experimental (Full Factorial),162.4411323,3.986962461,989.8556658,13.01137698,0.0963
+GCN-Xilinhot,gcnxil.cn,116.7434,43.54959,Asia,CN,NULL,2017,NULL,1,5,Experimental (Full Factorial),347.4395221,1.262432825,881.8919523,11.60082588,0.2813
+GCN-Yanchi,gcnyan.cn,106.93,37.31,Asia,CN,NULL,2017,NULL,1,5,Experimental (Full Factorial),323.0258115,7.981989408,879.6717875,12.86589407,0.2479
+GCN-Youyu,gcnyou.cn,112.32156,39.98806,Asia,CN,NULL,2017,NULL,1,5,Experimental (Full Factorial),479.0911368,4.863306542,883.3637241,13.02360494,0.2907
+Galleno ,gall.it,10.7185,43.7971,Europe,IT,mesic grassland,2015,2015,0,1,Observational,841.6024331,14.10208357,918.0677575,14.12196994,0.7563
+Glacial Heritage,glac.us,-123.0343556,46.86877222,North America,US,mesic grassland,2007,2007,0,1,Observational,1715.925028,9.934139954,731.6330768,10.01049015,1.4208
+Glacial Heritage Preserve - Prairie Habitat R,glacphr.us,-123.053588,46.870722,North America,US,NULL,2021,2021,0,1,Observational,1715.925028,9.934139954,731.6330768,10.01049015,1.4519
+Glacier Creek Preserve,glcr.us,-96.13964,41.339206,North America,US,tallgrass prairie,2015,NULL,1,7,Experimental (Full Factorial),743.0338848,10.21801093,1068.684697,14.84947524,0.575
+Hall's Prairie,hall.us,-86.70167,36.871944,North America,US,tallgrass prairie,2007,2014,0,8,Experimental (Full Factorial),1251.367764,14.5462368,1126.451633,14.98096555,0.9652
+Hanover,hnvr.us,-72.13806,43.41927,North America,US,old field,2007,2010,0,4,Experimental (Full Factorial),1115.468568,6.680376465,827.4564649,12.15579323,1.0535
+Hart Mountain,hart.us,-119.49767,42.723745,North America,US,shrub steppe,2007,2012,0,6,Experimental (Full Factorial),260.3854886,7.553696379,1133.912114,10.12508939,0.1679
+Hastings UCNRS,hast.us,-121.55,36.2,North America,US,annual grassland,2007,2007,0,1,Observational,952.0169502,11.92184162,1063.95889,11.92184162,0.6228
+Heronsbrook (Silwood Park),hero.uk,-0.639,51.411,Europe,UK,mesic grassland,2007,NULL,1,15,Experimental (Full Factorial),760.1032386,9.990524351,597.5080745,10.03500382,0.8006
+Hiko,hiko.ir,53.2899,35.94665964,Asia,IR,NULL,2014,2014,0,1,Observational,194.151616,12.75047064,1217.908088,14.77131623,0.1408
+Hog Island Site 1,hogone.us,-75.686,37.417,North America,US,coastal grassland,2015,NULL,1,7,Experimental (Other modification),1097.743567,14.77869648,1128.056471,14.86926344,0.805
+Hog Island Site 2,hogtwo.us,-75.686,37.417,North America,US,coastal grassland,2017,NULL,1,5,Experimental (Nutrients Only),1097.743567,14.77869648,1128.056471,14.86926344,0.805
+Hopland REC,hopl.us,-123.0603134,39.01275343,North America,US,annual grassland,2007,NULL,1,15,Experimental (Full Factorial),1098.02905,12.11801098,1076.220179,12.11801098,0.6622
+Hustai National Park,hustai.mn,105.9677778,47.66652778,Asia,MN,NULL,2018,NULL,1,4,Experimental (Other modification),316.4919408,-0.769825275,761.021788,10.93473137,0.2335
+Jashloubar,jash.ir,53.17170333,35.78325667,Asia,IR,NULL,2014,2014,0,1,Observational,194.151616,12.75047064,1217.908088,14.77131623,0.1112
+Jasper Ridge Biological Preserve,jasp.us,-122.2411342,37.40500045,North America,US,annual grassland,2007,2007,0,1,Observational,695.4774308,13.53219113,1103.692761,13.53219113,0.3982
+JeNut,jena.de,11.528347,50.938,Europe,DE,grassland,2013,NULL,1,9,Experimental (Nutrients Only),645.3564628,7.87190875,645.01614,9.725440879,0.7694
+Jornada LTER,jorn.us,-106.8108509,32.54434074,North America,US,semiarid grassland,2013,2013,0,1,Observational,259.158069,14.65100831,1686.212122,14.65100831,0.1169
+KBS,kbs_drag.us,85.36917,42.41639,North America,US,NULL,2019,NULL,1,3,DRAGNet,201.0564546,-0.485215072,822.3346912,8.284807162,0.2082
+Karkevagge,kark.se,18.323098,68.392169,Europe,SE,tundra grassland,2016,2016,0,1,Observational,697.7250127,-3.633131787,323.9572635,5.822916757,1.8559
+Kellogg Biological Station LTER,kbs.us,-85.3909,42.408986,North America,US,old field,2013,NULL,1,9,Experimental (Full Factorial),884.6072731,9.443279746,926.8879191,13.49687953,0.8189
+Khoshkeroud,khos.ir,50.66840667,35.44374,Asia,IR,NULL,2014,2014,0,1,Observational,334.9806508,16.39025561,1295.547601,16.66291568,0.1195
+Kibber (Spiti),kibber.in,78.00954,32.31972667,Asia,IN,alpine grassland,2012,NULL,1,10,Experimental (Full Factorial),387.7153287,-2.073723151,737.9242057,5.88692215,0.3338
+Kidman Springs,kidman.au,130.9531,-16.10846,Australia,AU,savanna,2014,NULL,1,8,Experimental (Full Factorial),736.8879156,27.10598158,1833.780676,27.10598158,0.2772
+Kilpisjärvi,kilp.fi,20.8747,69.0567,Europe,FI,tundra grassland,2013,NULL,1,9,Experimental (Full Factorial),540.0387187,-3.393884462,315.5798436,6.034462472,1.2555
+Kinypanial,kiny.au,143.75,-36.2,Australia,AU,semiarid grassland,2007,NULL,1,15,Experimental (Full Factorial),424.4709754,15.38850834,1359.116154,15.38850834,0.2203
+Kirikukyla,kirik.ee,23.795,58.71,Europe,EE,calcareous grassland,2012,2012,0,1,Observational,591.0653322,5.899664082,536.3862995,9.678772627,0.8112
+Koffler Scientific Reserve at Joker's Hill,koffler.ca,-79.535881,44.024047,North America,CA,pasture,2010,NULL,1,12,Experimental (Full Factorial),849.7975958,6.623387213,762.1363023,12.45093947,0.9553
+Konza LTER,konz.us,-96.582821,39.070856,North America,US,tallgrass prairie,2007,NULL,1,15,Experimental (Full Factorial),823.3588864,12.67016151,1209.234699,15.23233001,0.5763
+KonzaN1B,konzn1b.us,-96.564825,39.080936,North America,US,tallgrass prairie,2007,2007,0,1,Observational,823.3588864,12.67016151,1209.234699,15.23233001,0.5795
+Kordan,kord.ir,50.85471333,35.95634333,Asia,IR,NULL,2014,2014,0,1,Observational,402.1919426,15.26384433,1243.385504,15.63221311,0.1419
+La Pampa (3 sites),pampa.ar,-64.43507,-36.58645,South America,AR,grassland,2008,2008,0,1,Observational,578.7540426,15.84623683,1282.154052,15.84623683,0.3804
+Lac du Bois,lac.ca,-120.44878,50.88074,North America,CA,NULL,2021,2021,0,1,Observational,421.01533,4.841666744,730.7943666,9.993210929,0.6349
+Lakeside Laboratory,lake.us,-95.1863858,43.3791307,North America,US,tallgrass prairie,2015,NULL,1,7,Experimental (Nutrients Only),731.0750126,7.206048536,963.7992094,13.96235755,0.6366
+Laktajakka,lakta.se,18.740062,68.319867,Europe,SE,tundra grassland,2016,2016,0,1,Observational,538.3524285,-3.448319946,327.8459732,6.068978603,0.7773
+Lancaster,lancaster.uk,-2.628417566,53.98562471,Europe,UK,mesic grassland,2008,2017,1,10,Experimental (Full Factorial),1099.68631,9.252016272,548.6242038,9.286178052,2.3237
+Las Chilcas,chilcas.ar,-58.265556,-36.275556,South America,AR,mesic grassland,2013,NULL,1,9,Experimental (Full Factorial),901.0669515,15.27130403,1055.197599,15.27130403,0.7157
+Lasem,lasm.ir,52.20467543,35.80866629,Asia,IR,NULL,2014,2014,0,1,Observational,249.92823,9.941734046,1194.649216,13.94842787,0.1311
+Lazour,lazo.ir,52.62122,35.86194,Asia,IR,NULL,2014,2014,0,1,Observational,223.5233909,10.88682815,1208.590347,14.39614008,0.1308
+Leadbetter Point,lead.us,-124.0484,46.6149,North America,US,salt marsh,2007,2007,0,1,Observational,2169.803262,10.08763457,635.8629144,10.12386991,2.4631
+Lookout (Andrews LTER),look.us,-122.1284473,44.20517707,North America,US,montane grassland,2007,NULL,1,15,Experimental (Full Factorial),1651.89035,7.744287774,878.6540469,8.333883337,1.5659
+Lubbock (Texas Tech Univ),lubb.us,-101.89765,33.60001,North America,US,semiarid grassland,2018,NULL,1,4,Experimental (Other modification),471.6443634,15.74590079,1667.543574,15.84012734,0.2055
+Mar Chiquita,marc.ar,-57.42451,-37.71516,South America,AR,grassland,2012,NULL,1,10,Experimental (Full Factorial),828.5604977,14.26350832,980.5669532,14.26350832,0.6964
+Marcellus Shrub Steppe Natural Area Preserve,marcel.us,-118.408463,47.229916,North America,US,NULL,2021,2021,0,1,Observational,315.5540373,8.623857678,1035.986307,11.1980774,0.2275
+Mashash,mash.il,34.86,31.07,Western Asia,IL,NULL,2021,NULL,1,1,NULL,237.1161328,19.55819925,1540.393573,19.55819925,0.0892
+McDaniel College,mcdan.us,-77.04138,39.528033,North America,US,old field,2018,NULL,1,4,Experimental (Other modification),1074.691149,11.00248676,997.8798562,13.24067228,0.8693
+Mclaughlin UCNRS,mcla.us,-122.4064063,38.86427212,North America,US,annual grassland,2007,NULL,1,15,Experimental (Full Factorial),816.9104989,14.19798413,1286.403248,14.19798413,0.5443
+Methow Rapids Natural Area Preserve,mrapids.us,-119.891601,48.033488,North America,US,NULL,2021,2021,0,1,Observational,327.8112963,7.262231308,890.1621106,11.68801671,0.2021
+Metompkin,meto.us,-75.686,37.417,North America,US,coastal grassland,2017,NULL,1,5,Experimental (Nutrients Only),1097.743567,14.77869648,1128.056471,14.86926344,0.805
+Middle Taleghan,tale.ir,50.71711769,36.13738041,Asia,IR,NULL,2014,2014,0,1,Observational,377.467748,8.756854999,1105.803247,13.08976828,0.1574
+Mima Mounds Natural Area Preserve,mmounds.us,-123.060965,46.89134,North America,US,NULL,2021,2021,0,1,Observational,1715.925028,9.934139954,731.6330768,10.01049015,1.5107
+Minnesota State University Moorehead,msum.us,-96.45352319,46.86962418,North America,US,tallgrass prairie,2016,NULL,1,6,Experimental (Full Factorial),593.9290426,4.925873739,883.0774355,13.69536314,0.5191
+Missoula,msla.us,-114.0005227,46.664613,North America,US,grassland,2017,NULL,1,5,Experimental (Full Factorial),395.9096844,5.841465159,893.1717882,10.40083096,0.2597
+Missoula - MPG Ranch,msla_2.us,-114.0005227,46.664613,North America,US,grassland,2017,NULL,1,5,Experimental (Full Factorial),395.9096844,5.841465159,893.1717882,10.40083096,0.2597
+Missoula - MPG Ranch - 3,msla_3.us,-114.0005227,46.664613,North America,US,grassland,2017,NULL,1,5,Experimental (Full Factorial),395.9096844,5.841465159,893.1717882,10.40083096,0.2597
+Mitchell grassland,mitch.au,143.323501,-22.483584,Australia,AU,semiarid grassland,2013,2013,0,1,Observational,442.7951693,24.04220469,2160.042775,24.04220469,0.1494
+Mt Gilboa,gilb.za,30.29174,-29.28424,Africa,ZA,montane grassland,2010,NULL,1,12,Experimental (Full Factorial),880.0887256,15.81465083,1129.518566,15.81465083,0.6319
+Mt. Caroline,mtca.au,117.610853,-31.782138,Australia,AU,savanna,2008,NULL,1,14,Experimental (Full Factorial),317.9483928,17.49825296,1548.321799,17.49825296,0.148
+Napier Lake,nap.ca,-120.31672,50.44944,North America,CA,NULL,2021,2021,0,1,Observational,436.1161365,3.906518874,696.002432,9.15437482,0.3961
+Neba,neba.jp,137.662489,35.23214,Asia,JP,mesic grassland,2016,NULL,1,6,Experimental (Full Factorial),1739.845193,10.92573944,811.9919494,12.57320445,2.0002
+Nillahcootie,nilla.au,146.007,-36.896,Australia,AU,old field,2016,NULL,1,6,Experimental (Full Factorial),981.126628,13.64126368,1108.228243,13.64126368,0.6298
+Niwot Ridge LTER,niwo.us,-105.375,39.993,North America,US,alpine grassland,2007,2007,0,1,Observational,447.2056521,6.611962481,1171.578245,10.44148455,0.2922
+North of Ardebil,arde.ir,47.78073504,38.85485507,Asia,IR,NULL,2014,2014,0,1,Observational,570.4774289,11.2595432,979.932275,12.76360318,0.3473
+Ovor Zaisan,ovor.mn,106.8850333,47.7688333,Asia,MN,NULL,2018,2018,0,1,Observational,341.9475871,-1.439448951,744.4588847,10.94701632,0.2895
+Ozine,ozin.ir,52.44417667,35.65668667,Asia,IR,NULL,2014,2014,0,1,Observational,249.92823,9.941734046,1194.649216,13.94842787,0.104
+Papenburg,pape.de,7.4728,53.086,Europe,DE,old field,2007,2013,0,7,Experimental (Full Factorial),752.4806572,9.33198941,580.4588807,9.897347844,1.0278
+Petuniabukta,sval.no,16.4,78.7,Europe,NO,tundra grassland,2016,NULL,1,6,Experimental (Nutrients Only),261.9435525,-7.93158615,270.137102,3.023991984,1.2212
+Pichincha,pich.ec,-78.9985045,-0.0769969,South America,EC,alpine grassland,2012,2014,0,3,Experimental (Full Factorial),2036.162938,15.80974488,943.248409,15.80974488,2.4379
+Pingelly Paddock,ping.au,116.972947,-32.496169,Australia,AU,old field,2013,NULL,1,9,Experimental (Full Factorial),558.470977,16.58414007,1575.624218,16.58414007,0.2221
+Pinjarra Hills,pinj.au,152.923222,-27.530556,Australia,AU,pasture,2013,NULL,1,9,Experimental (Full Factorial),979.7903404,19.0981858,1524.416155,19.0981858,0.5942
+Podocarpus,podo.ec,-79.16,-4.11,South America,EC,paramo,2015,NULL,1,7,Experimental (Full Factorial),1033.756473,16.45900568,1147.680662,16.45900568,1.0429
+Potrok Aike,potrok.ar,-70.40744444,-51.91602778,South America,AR,semiarid grassland,2015,NULL,1,7,Experimental (Full Factorial),259.9104882,7.344354959,835.4508205,7.469969575,0.2565
+Rookery (Silwood Park),rook.uk,-0.644,51.406,Europe,UK,mesic grassland,2007,NULL,1,15,Experimental (Full Factorial),760.1032386,9.990524351,597.5080745,10.03500382,0.8233
+Saana,saana.fi,20.8433,69.0368,Europe,FI,montane grassland,2014,NULL,1,8,Experimental (Full Factorial),540.0387187,-3.393884462,315.5798436,6.034462472,1.2405
+Sagehen Creek UCNRS,sage.us,-120.24,39.43,North America,US,montane grassland,2007,2013,0,7,Experimental (Full Factorial),966.0774366,6.485013545,1064.168567,8.257151919,0.5655
+Salafchegan,sala.ir,50.39897333,34.51798,Asia,IR,NULL,2014,2014,0,1,Observational,325.7693605,14.40302442,1227.35244,15.29531468,0.1078
+Saline Experimental Range,saline.us,-99.1,39.05,North America,US,mixedgrass prairie,2007,2017,0,11,Experimental (Full Factorial),587.4145255,11.75134428,1338.038733,14.79433859,0.3482
+San Pablo de ValdŽs,spv.ar,-64.171606,-42.653747,South America,AR,semiarid grassland,2015,2015,0,1,Observational,186.4951646,13.92217767,1554.516153,13.92217767,0.1195
+Sandhills,sandhill.us,-79.51774,34.95738,North America,US,NULL,2019,NULL,1,3,Experimental (Nutrients Only),1199.222601,16.31162662,1187.57986,16.33521533,0.8013
+Savannah River,sava.us,-81.650936,33.343894,North America,US,savanna,2007,2013,0,7,Experimental (Full Factorial),1152.060503,18.15537664,1228.117764,18.15537664,0.7608
+Sedgwick Reserve UCNRS,sedg.us,-120.0166667,34.7,North America,US,annual grassland,2007,NULL,1,15,Experimental (Nutrients Only),417.8927491,13.81733897,1065.344371,13.81733897,0.2528
+Serengeti,sereng.tz,34.512613,-2.254503,Africa,TZ,savanna,2008,2012,0,5,Experimental (Full Factorial),842.4459821,20.91223156,1376.770179,20.91223156,0.4216
+Sevilleta LTER,sevi.us,-106.6905,34.3592,North America,US,desert grassland,2007,NULL,1,15,Experimental (Nutrients Only),250.7258101,12.57197601,1603.482283,12.93104005,0.1163
+Sheep Experimental Station,shps.us,-112.198391,44.242989,North America,US,shrub steppe,2007,NULL,1,15,Experimental (Full Factorial),381.9298454,4.975201701,1023.424211,10.79637915,0.1839
+Shortgrass Steppe LTER,sgs.us,-104.76667,40.81667,North America,US,shortgrass prairie,2007,NULL,1,15,Experimental (Full Factorial),385.1677486,8.720967885,1244.226634,11.8296654,0.2147
+Sierra Foothills REC,sier.us,-121.2836963,39.23550963,North America,US,annual grassland,2007,NULL,1,15,Experimental (Full Factorial),1049.228243,14.98555133,1392.775023,14.98555133,0.4902
+Sirsi,sirsi.in,74.74329,14.4188,Asia,IN,NULL,2014,NULL,1,8,NULL,3481.65893,25.33010791,1514.776639,25.33010791,2.2941
+Slieve Carran,burren.ie,-8.992624,53.072023,Europe,IE,calcareous grassland,2015,NULL,1,7,Experimental (Full Factorial),1093.546794,9.518346929,525.6387197,9.518346929,1.7809
+Smith Prairie,smith.us,-122.624754,48.20658068,North America,US,mesic grassland,2007,NULL,1,15,Experimental (Full Factorial),652.5032375,10.15161308,704.3613016,10.20325042,0.6528
+Sparrow,spar.ca,-119.60113,49.01192,North America,CA,NULL,2021,2021,0,1,Observational,428.7588778,4.757930194,715.7371085,9.887157754,0.3142
+Spindletop,spin.us,-84.502778,38.132222,North America,US,pasture,2007,NULL,1,15,Experimental (Full Factorial),1141.197599,12.72506743,1050.444372,14.14382275,0.909
+Summerveld,summ.za,30.71573,-29.81161,Africa,ZA,mesic grassland,2009,NULL,1,13,Experimental (Nutrients Only),976.5508239,18.79852183,1160.276631,18.79852183,0.6197
+TNC Lake Ramsay Preserve,ramsay.us,-90.169863,30.515202,North America,US,savanna,2016,2016,0,1,Observational,1583.116155,19.61512128,1252.564537,19.61512128,1.0814
+Tejon Foothill,tejon_foot.us,118.6777248,35.0247536,North America,US,NULL,2018,NULL,1,4,Experimental (NPK x Fence Only),848.7758212,12.89704323,1043.155662,14.93021693,0.612
+Tejon Montane-North,tejon_north.us,118.5947222,34.97777778,North America,US,NULL,2018,NULL,1,4,Experimental (NPK x Fence Only),876.7935631,13.84260775,1035.437113,14.94325415,0.59
+Tejon Montane-South,tejon_south.us,118.5819444,34.97111111,North America,US,NULL,2018,NULL,1,4,Experimental (NPK x Fence Only),876.7935631,13.84260775,1035.437113,14.94325415,0.5871
+Temple,temple.us,-97.349,31.044,North America,US,tallgrass prairie,2007,NULL,1,15,Experimental (Nutrients Only),832.3717881,19.54630408,1501.208091,19.54630408,0.4709
+The Two-Steppe Natural Area Preserve,twostep.us,-119.620507,47.599999,North America,US,NULL,2021,2021,0,1,Observational,264.6838756,8.08541682,950.6032409,12.10955816,0.1753
+Theistareykir Heath,thth.is,-17.08927,65.90129,Europe,IS,heathland,2016,NULL,1,6,Experimental (NPK x Fence Only),598.275817,1.642069921,378.5927493,6.01717208,1.053
+Theistareykir Melur,tmlr.is,-17.08927,65.90129,Europe,IS,desert grassland,2016,NULL,1,6,Experimental (NPK x Fence Only),598.275817,1.642069921,378.5927493,6.01717208,1.053
+Trelease,trel.us,-88.829,40.075,North America,US,tallgrass prairie,2008,NULL,1,14,Experimental (Full Factorial),954.0145329,11.11458353,1035.31131,14.5207336,0.8042
+Tres Lagoas,lagoas.br,-51.798889,-20.982778,South America,BR,cerrado,2015,NULL,1,7,Experimental (Full Factorial),1254.691149,24.53501383,1281.615346,24.53501383,0.6869
+Tyson,tyso.us,-90.564792,38.519092,North America,US,old field,2007,2011,0,5,Experimental (Full Factorial),953.7556607,12.93662656,1129.437115,14.88403739,0.7249
+UF Range Cattle REC,ufrec.us,-81.916667,27.433333,North America,US,grassland,2013,NULL,1,9,Experimental (Full Factorial),1385.34841,22.69778263,1388.437123,22.69778263,0.7266
+UWO Observatory,uwo.ca,-81.317807,43.193131,North America,CA,old field,2014,2014,0,1,Observational,1014.443566,7.321639908,776.4024316,12.51643934,1.0851
+Ukulinga,ukul.za,30.4,-29.67,Africa,ZA,mesic grassland,2009,NULL,1,13,Experimental (Nutrients Only),897.1871117,16.46841429,1112.525018,16.46841429,0.5332
+University of California - Santa Cruz,ucsc.us,-121.739944,36.867861,North America,US,mesic grassland,2007,2007,0,1,Observational,575.0201719,13.79899219,1165.474215,13.79899219,0.3758
+Val Mustair,valm.ch,10.372252,46.631345,Europe,CH,alpine grassland,2008,NULL,1,14,Experimental (Full Factorial),1213.628247,0.615120979,542.8588814,5.619604558,0.9314
+Vaquerias,vaqu.mx,-101.610944,21.782161,North America,MX,semiarid grassland,2013,NULL,0,9,Experimental (Full Factorial),498.6798476,16.84139816,1584.346801,16.84139816,0.2435
+Varanger Experimental Site,varexp.no,29.08825,70.30759,Europe,NO,NULL,2018,NULL,1,4,Experimental (Other modification),530.0629125,-0.296438167,323.2032314,6.345343823,1.19
+Varanger River Valley Grasslands,vargrass.no,29.5398,70.32797,Europe,NO,tundra grassland,2018,2018,0,1,Observational,574.7242027,-0.30497312,314.7282311,5.986261632,1.5404
+Varanger River Valley Heathlands,varheath.no,29.5398,70.32797,Europe,NO,NULL,2018,2018,0,1,Observational,574.7242027,-0.30497312,314.7282311,5.986261632,1.5404
+Vassijaure,vass.se,18.274396,68.416979,Europe,SE,tundra grassland,2016,2016,0,1,Observational,697.7250127,-3.633131787,323.9572635,5.822916757,1.7665
+Veluwe,veluwe.nl,5.751666667,52.05972222,Europe,NL,old field,2017,NULL,1,5,Experimental (Full Factorial),781.7879166,9.517271673,620.0992043,9.894515082,1.0966
+Wupatki,wupatki.us,-111.579722,33.583333,North America,US,desert grassland,2018,NULL,1,4,Experimental (Other modification),369.5298456,19.35000029,1947.634711,19.35000029,0.1279
+Xilinhot,xilin.cn,116.671111,43.550556,Asia,CN,semiarid grassland,2012,NULL,1,10,Experimental (Full Factorial),347.4395221,1.262432825,881.8919523,11.60082588,0.261
+Yarramundi,yarra.au,150.73,-33.61,Australia,AU,mesic grassland,2014,NULL,1,8,Experimental (Full Factorial),911.1532429,16.78743308,1342.07583,16.78743308,0.5155
